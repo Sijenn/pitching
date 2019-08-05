@@ -1,0 +1,22 @@
+{% extends 'base.html'%}
+
+{% block styles%}
+{{ super() }}
+<link rel="stylesheet" type="text/css" href="{{url_for('static',filename='css/index.css')}}">
+
+
+{% endblock %}
+
+
+{% block content %}
+
+<h1>WELCOME TO ONE MINUTE PITCH.</h1>
+<hr>
+<br><br>
+<p>In life, you only have 60 seconds to impress someone. 1 minute can make or break you.</p>
+<br>
+<p>Use your 1 minute to  say something meaningful.</p>
+
+<br><br><br>
+
+{% endblock%}
