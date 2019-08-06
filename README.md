@@ -31,7 +31,7 @@ This is a python web application that allows users to pitch their ideas and can 
 ## Project live site
 https://jenn-pitch.herokuapp.com/
 
-![alt text](../app/screenshot.png "Description goes here")
+![alt text](app/screenshot.png "Description goes here")
 
 ## Technologies Used
 
