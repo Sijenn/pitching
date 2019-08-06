@@ -5,7 +5,7 @@ subject_pref = 'Pitch'
 
 
 def mail_message(subject,template,to,**kwargs):
-  sender_email = 'jenn7nm@gmail.com'
+  sender_email = ''
 
 
   email = Message(subject,sender=sender_email,recipients=[to])

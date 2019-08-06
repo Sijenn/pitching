@@ -1,5 +1,4 @@
-#!/home/moringaschool/Documents/My-one-minute-pitch/virtual/bin/python3.6
-
+#!/home/jenn/Documents/My-pitch/virtual/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
