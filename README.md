@@ -9,9 +9,7 @@ This is a python web application that allows users to pitch their ideas and can 
 ## Project Description
 
     This is web application that allows users to pitch their ideas and can store their pitches in our application . Users can also comments on a pitch .They can downvote and upvote their pitches
-    https://jenn-pitch.herokuapp.com/
 
-    ![alt text](../app/screenshot.png "Description goes here")
 ## Project setup  installation
 
 1.  From the repository, click + in the global sidebar and select Clone this repository under Get to work.
@@ -25,11 +23,15 @@ This is a python web application that allows users to pitch their ideas and can 
 | Behavior        | Output |
 | ------------- |:----:|
 | User sign-up | User gets an Email and new account is displayed |
-| User logins |  user is authenticated and home page is displayed|
+| User sign-in |  user is authenticated and home page is displayed|
 | User clicks on pitches button | Pitches forms are displayed|
 | User clicks on add pitches button | pitch is added to list of pitches and is displayed on users profile|
-| User clicks on profile | List of pitches craeted by the user are displayed|
+| User clicks on profile | Users profile is displayed|
 
+## Project live site
+https://jenn-pitch.herokuapp.com/
+
+![alt text](../app/screenshot.png "Description goes here")
 
 ## Technologies Used
 
